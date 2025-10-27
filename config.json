@@ -14,11 +14,11 @@
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminOnly": {
     "enable": false,
-    "ignoreCommand": []
+    "ignoreCommand": [^]
   },
   "adminBot": [
-    "61574845797376",
-    "61574735065504",
+    "61582063026323",
+    "100094458275640",
     "100094271137194",
     "61573029839707",
     "61574418847842"
